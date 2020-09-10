@@ -22,9 +22,6 @@ public class Main {
 
             else {
                 System.out.println(i);
-
-                //Alex was here
-                //Alex was here again.
             }
         }
 

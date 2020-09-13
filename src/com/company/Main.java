@@ -10,7 +10,7 @@ public class Main {
                 System.out.println("Answer to the Ultimate Question of Life, the Universe, and Everything");
             }
             // Andreas hintade om att vi skulle använda modulus, samt både else if och else.
-            else if((i%3==0) & (i%5==0)){
+            else if((i%3==0) && (i%5==0)){
                 System.out.println("FizzBuzz");
             }
             else if(i%3==0){
